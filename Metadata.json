@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 1710,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-powershell-arm-assign-static-private-ip-address/master/azure_infra_arm_reip.ps1",
+    "DownloadCount": 821,
+    "Id": "Azure-Powershell-ARM-a9f86096",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 353,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-7-31T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script allows a user to update an existing Azure IaaS VM's Private Ip Address to a static IP. The script also reports the updated interface information for all VMs in the Resouce Group once the IP change has occurred. This script does accept pipeline inputs and can be use",
+    "Title": "Azure Powershell ARM Assign Static Private IP address",
+    "UpdatedDate": "2016-8-4T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-powershell-arm-assign-static-private-ip-address",
+    "UserTags": "Microsoft Azure, IaaS, PowerShell 3.0"
+}
